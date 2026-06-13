@@ -1,3 +1,10 @@
-# Task 3 - ATM Interface
+# CODSOFT Java Development Internship
 
-A Java ATM simulation supporting deposit, withdrawal, and balance checking.
+## Completed Tasks
+
+1. Number Game
+2. Student Grade Calculator
+3. ATM Interface
+
+Language: Java
+IDE: Visual Studio Code
